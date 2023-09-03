@@ -43,13 +43,13 @@ Java 8 or above JDBC (Java Database Connectivity) library GUI library (e.g. Swin
 Launch the application by running the Server class to start the server.
 Clients can run the Client class to connect to the server.
 Register a new account if you are a new user. Otherwise, log in using your existing credentials.
+
 # Run in command line
 
-
-
- Register and Login Page
+ 
  ![capture 1](https://github.com/aman0816/multiuser_chatapp/assets/124900935/9d049b50-48e0-442b-954f-45695ac1e87b)
 
+ # Register and Login Page
 
 
 ![Capture](https://github.com/aman0816/multiuser_chatapp/assets/124900935/a14ab14e-9421-4614-9475-21ba0802938f)
